@@ -1,6 +1,5 @@
 # Brainwave_Matrix_Intern
 A simple Day Planner Website built using HTML, CSS, and JavaScript that helps users manage their daily tasks efficiently.
-
 🚀 Features
 ✅ Add Task: Users can add tasks to their daily schedule.
 ❌ Delete Task: Users can remove tasks when completed or unnecessary.
